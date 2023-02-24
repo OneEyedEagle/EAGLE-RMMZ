@@ -5,7 +5,7 @@
  * @target MZ
  * @plugindesc 在游戏运行时，将其它地图上的事件，临时复制到当前地图。
  * @author 老鹰
- * @url https://rpg.blue/
+ * @url https://github.com/OneEyedEagle/EAGLE-RMMZ
  * 
  * @help 
  * 
